@@ -13,7 +13,7 @@ export default function App() {
           <a
             href="https://github.com/Margarita827/week-five"
             target="_blank"
-            rel="noreferrer"
+            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>
