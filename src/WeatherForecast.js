@@ -19,16 +19,7 @@ setForecast(response.data.daily);
     <div className="WeatherForecast">
       <div className="row">
         <div className="col">
-          <div className="WeatherForecast-day">Thursday</div>
-          <WeatherIcon code="clear-sky-day" />
-          <div className="WeatherForecast-temperatures">
-            <span className="temperature-max">
-              {forecast[0].temperature.current.max}º
-            </span>
-            <span className="temperature-min">
-              {forecast[0].temperature.current.min}º
-            </span>
-          </div>
+     <WeatherForecastDay data={forecast[0]} />
         </div>
       </div>
     </div>
