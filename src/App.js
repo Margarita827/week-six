@@ -20,7 +20,7 @@ export default function App() {
         </a>
         and is{" "}
         <a
-          href="https://github.com/Margarita827/week-five"
+          href="https://github.com/Margarita827/week-six"
           target="_blank"
           rel="noopener noreferrer"
         >
