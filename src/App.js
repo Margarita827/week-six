@@ -10,7 +10,15 @@ export default function App() {
         <Weather defaultCity="Brighton" />
       </div>
       <footer>
-        This project has been coded by Margarita Ibanez and is{" "}
+        This project has been coded by{" "}
+        <a
+          href="https://github.com/Margarita827"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Margarita Ibanez
+        </a>
+        and is{" "}
         <a
           href="https://github.com/Margarita827/week-five"
           target="_blank"
