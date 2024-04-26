@@ -16,9 +16,9 @@ export default function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Margarita Ibanez
+          Margarita Ibanez{" "}
         </a>
-        and is{" "}
+          and is{" "}
         <a
           href="https://github.com/Margarita827/week-six"
           target="_blank"
